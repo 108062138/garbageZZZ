@@ -4,7 +4,7 @@
 
 > pip install -r requirements.txt
 
-## ADJUST PARAMS
+## ADJUST PARAMS IN MAIN.PY
 > adjust page numbers
 
 > adjust topic
